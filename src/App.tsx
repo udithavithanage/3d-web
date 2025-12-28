@@ -4,13 +4,11 @@ import MainContainer from "./components/MainContainer";
 
 const App = () => {
   return (
-    <>
-      <main className="main-body">
-        <MainContainer>
-          <CharacterModel />
-        </MainContainer>
-      </main>
-    </>
+    <main className="main-body">
+      <MainContainer>
+        <CharacterModel />
+      </MainContainer>
+    </main>
   );
 };
 
