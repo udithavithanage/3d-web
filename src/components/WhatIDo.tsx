@@ -1,6 +1,8 @@
 import { useEffect, useRef } from "react";
-import "./styles/WhatIDo.css";
+
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+import "./styles/WhatIDo.css";
 
 const WhatIDo = () => {
   const containerRef = useRef<(HTMLDivElement | null)[]>([]);
@@ -96,16 +98,10 @@ const WhatIDo = () => {
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
                 <div className="what-tags">Three.js</div>
-                <div className="what-tags">WebSockets</div>
+                <div className="what-tags">React</div>
+                <div className="what-tags">NextJs</div>
                 <div className="what-tags">Tailwind CSS</div>
-                <div className="what-tags">HTML/CSS</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -139,14 +135,10 @@ const WhatIDo = () => {
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Machine Learning</div>
-                <div className="what-tags">Python</div>
                 <div className="what-tags">Open Source</div>
                 <div className="what-tags">CLI Tools</div>
                 <div className="what-tags">API Design</div>
-                <div className="what-tags">System Architecture</div>
                 <div className="what-tags">Git/GitHub</div>
-                <div className="what-tags">Problem Solving</div>
               </div>
               <div className="what-arrow"></div>
             </div>

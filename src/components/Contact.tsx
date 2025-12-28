@@ -1,4 +1,5 @@
 import { MdArrowOutward, MdCopyright } from "react-icons/md";
+
 import "./styles/Contact.css";
 
 const Contact = () => {
@@ -43,7 +44,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/udithavithanage"
+              href="https://x.com/uditha_2003"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
