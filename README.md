@@ -2,7 +2,7 @@
 
 A modern, interactive portfolio website featuring 3D graphics and smooth animations built with React, Three.js, and GSAP.
 
-![Protfolio-Preview](https://raw.githubusercontent.com/udithavithanage/static/refs/heads/main/3d-web/readme/banner.png)
+![Protfolio-Preview](./public/images/banner.png)
 
 ## Overview
 
