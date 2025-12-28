@@ -6,9 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm a passionate developer specializing in web applications, modern
+          user interfaces, and efficient backends. Currently working as a
+          Software Engineer Intern at WSO2, I focus on building scalable
+          solutions with expertise in full-stack development and machine
+          learning. I love creating innovative projects that solve real-world
+          problems and enhance user experiences.
         </p>
       </div>
     </div>

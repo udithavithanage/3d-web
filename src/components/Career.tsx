@@ -15,43 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack Developer</h4>
+                <h5>Freelance Projects</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed various web applications using React, Node.js, and
+              MongoDB. Created innovative solutions including auto-license tool,
+              uploady file server, and react-searchx library. Built responsive
+              and modern user interfaces with focus on performance and user
+              experience.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>ML & Full Stack Developer</h4>
+                <h5>Personal Projects</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Expanded expertise in machine learning and advanced web
+              technologies. Developed thyra CLI tool for project management,
+              integrated WebSockets and real-time features. Contributed to
+              open-source projects and built comprehensive full-stack
+              applications with modern tech stack.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Engineer Intern</h4>
+                <h5>WSO2</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Working on enterprise-level solutions and contributing to scalable
+              software systems. Applying full-stack development skills with
+              focus on backend technologies, API development, and system
+              architecture. Collaborating with experienced engineers on
+              cutting-edge projects.
             </p>
           </div>
         </div>
