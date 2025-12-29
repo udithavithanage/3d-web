@@ -16,6 +16,11 @@
   gap: 8px;
   z-index: 999;
   padding: 10px;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+.social-icons:hover {
+  opacity: 1;
 }
 .social-icons span {
   width: 50px;
@@ -32,8 +37,11 @@
   transform: translate(-50%, -50%);
   display: flex;
   font-size: 23px;
-  will-change: left, top;
-  transition: transform 0.3s ease-out;
+  transition: transform 0.3s ease;
+  will-change: transform;
+}
+.social-icons a:hover {
+  transform: translate(-50%, -50%) translateX(5px);
 }
 .resume-button {
   position: absolute;
